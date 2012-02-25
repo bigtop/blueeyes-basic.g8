@@ -1,4 +1,4 @@
-package code
+package $package$
 
 import akka.dispatch.{Await, Future}
 import akka.util.Duration

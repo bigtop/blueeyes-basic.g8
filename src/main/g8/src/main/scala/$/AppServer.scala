@@ -1,4 +1,4 @@
-package code
+package $package$
 
 import blueeyes._
 
