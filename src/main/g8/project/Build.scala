@@ -50,7 +50,8 @@ object AppBuild extends Build {
     oneJarSettings ++
     Revolver.settings ++
     Seq(
-      version := "0.1"
+      organization := "$organization;format="lower"$",
+      version := "$version$"
     ) : _*
   )
 
