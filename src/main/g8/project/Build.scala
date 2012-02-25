@@ -18,7 +18,7 @@ object AppBuild extends Build {
   val blueeyesCore  = "com.reportgrid"          %% "blueeyes-core"     % "0.6.0-SNAPSHOT"
   val blueeyesMongo = "com.reportgrid"          %% "blueeyes-mongo"    % "0.6.0-SNAPSHOT"
   val blueeyesJson  = "com.reportgrid"          %% "blueeyes-json"     % "0.6.0-SNAPSHOT"
-  val specs2        = "org.specs2"              %% "specs2"            % "1.7"
+  val specs2        = "org.specs2"              %% "specs2"            % "1.8.1"
   val configgy      = "net.lag"                 %  "configgy"          % "2.0.0"
   val jodaTime      = "joda-time"               %  "joda-time"         % "2.0"
   val jodaConvert   = "org.joda"                %  "joda-convert"      % "1.1"
